@@ -1,0 +1,76 @@
+{
+    "lugares": [
+      {
+        "id": 1,
+        "nombre": "Catedral de la Asunción de la Virgen de Jaén",
+        "tipo": "Lugar de interes historico",
+        "descripcion": "La Santa Iglesia Catedral de la Asunción de la Virgen es la catedral de Jaén, sede episcopal de la diócesis de Jaén, en la comunidad autónoma de Andalucía, España. Se ubica en la plaza de Santa María, frente al Palacio Municipal y el Palacio Episcopal.",
+        "imagen": ["../../assets/img/catedralJaen.jpg"],
+        "logo": "../../assets/img/logoPlaza.png"
+      },
+      {
+        "id": 2,
+        "nombre": "Castillo de Santa Catalina",
+        "tipo": "Lugar de interes historico",
+        "descripcion": "El castillo de Santa Catalina, o alcázar nuevo es una antigua construcción defensiva de acabado cristiano-medieval, que corona el cerro del mismo nombre, en una estribación de la Sierra de Jabalcuz a 820 m de altitud, desde la cual se divisa toda la ciudad de Jaén, los olivares y las montañas circundantes de la zona.",
+        "imagen": ["../../assets/img/castilloSantaCatalina.jpg"],
+        "logo": "../../assets/img/logoCastillo.jpg"
+      },
+      {
+        "id": 3,
+        "nombre": "Museo Íbero",
+        "tipo": "Museo arqueológico",
+        "descripcion": "El Museo Íbero es un museo ubicado en la ciudad de Jaén, España. Alberga una destacada colección de arte ibérico, principalmente de la colección existente en el Museo de Jaén y otros fondos, y aquellas que proporcionen los nuevos hallazgos arqueológicos, con intención de convertirse en un referente internacional.",
+        "imagen": ["../../assets/img/museoIbero.jpeg"],
+        "logo": "../../assets/img/logoMuseo.jpg"
+      },
+      {
+        "id": 4,
+        "nombre": "Palacio Diputación Provincial de Jaén",
+        "tipo": "Oficina administrativa",
+        "descripcion": "El Palacio Provincial o Palacio de la Diputación Provincial es la sede actual de la Diputación Provincial de Jaén y es una obra del siglo XIX.",
+        "imagen": ["../../assets/img/diputacionJaen.jpg"],
+        "logo": "../../assets/img/logoPlaza.png"
+      },
+      {
+        "id": 5,
+        "nombre": "Hospital de San Juan de Dios",
+        "tipo": "Centro cultural en Jaén",
+        "descripcion": "El Antiguo Hospital de San Juan de Dios es un edificio de la ciudad española de Jaén, situado en el casco antiguo de la misma. Fue construido en el siglo XV. Actualmente es sede de distintos servicios de la Diputación Provincial de Jaén.",
+        "imagen": ["../../assets/img/hospitalSanJuan.jpg"],
+        "logo": "../../assets/img/logoHospital.png"
+      },
+      {
+        "id": 6,
+        "nombre": "Mirador de la Cruz",
+        "tipo": "Parque",
+        "descripcion": "Un rincón perfecto para maravillarse con Jaén y sus olivares, los auténticos protagonistas de este paisaje. La entrada a este mirador es completamente gratuita y, sin lugar a dudas, constituye uno de los lugares más mágicos de la ciudad.",
+        "imagen":["../../assets/img/catedralJaen.jpg"],
+        "logo": "../../assets/img/logoParque.jpg"
+      },
+      {
+        "id": 7,
+        "nombre": "Puerta del Ángel",
+        "tipo": "Lugar de interes historico",
+        "descripcion": "",
+        "imagen": ["../../assets/img/puertaAngel.jpg"],
+        "logo": "../../assets/img/logoPlaza.png"
+      },
+      {
+        "id": 8,
+        "nombre": "Basílica de San Ildefonso",
+        "tipo": "Lugar de interes historico",
+        "descripcion": "La basílica menor de la Sacra Iglesia Parroquial de San Ildefonso es un templo cristiano católico de Jaén. Fue erigido en 1248 en el arrabal San Ildefonso, creado tras la ampliación del recinto amurallado de la ciudad.",
+        "imagen": ["../../assets/img/basilicaIldefonso2.jpg"],
+        "logo": "../../assets/img/logoPlaza.png"
+      },
+      {
+        "id": 9,
+        "nombre": "Plaza alta",
+        "tipo": "Centro cultural en Jaén",
+        "descripcion": "Esta céntrica plaza de la capital jienense ha tenido tantos nombres oficiales como oficiosos. Fue durante siglos la plaza del Arrabal y del Mercado y después del Príncipe Alfonso, de José Antonio y, con la llegada de la democracia, plaza de la Constitución. Aunque para los más viejos del lugar sigue siendo 'la plaza de las Palmeras', por la reforma que hizo el entonces alcalde y después ministro José del Prado y Palacio, mientras que para los más jóvenes es 'Botijos' sin más, por economía del lenguaje.",
+        "imagen": ["../../assets/img/plazaAlta.jpeg"],
+        "logo": "../../assets/img/logoHospital.png"
+      }
+    ]
+  }
