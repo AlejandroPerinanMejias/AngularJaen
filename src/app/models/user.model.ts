@@ -2,12 +2,14 @@ export class UserModel{
 
     constructor(
         public id: number,
-        public firstName: string,
-        public lastName: string,
-        public province: string,
-        public email: string,        
-        public role: string,
-        public birthday: Date | null,
-        public token: string    
-    ){}
+        public rol: string,
+        public nombre: string,
+        public apellidos: string,
+        public fechaNacimiento: Date | null,
+        public correo: string,
+        public numTelefono: string,
+        public genero: string,
+        public comunidad: string,
+        public token: string
+    ) {}
 }
